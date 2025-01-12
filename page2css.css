@@ -1,0 +1,34 @@
+body{
+    background-color: wheat;
+    text-align: center;
+}
+.body{
+    
+    text-align: center;
+    
+    
+}
+
+.cl2{
+    position: absolute;
+    background-color: wheat;
+    right: 30%;
+
+    width: 40%;
+}
+.body h1{
+    font-size: 70px;
+}
+.cl3{
+    background-color: black;
+
+}
+.cl4{
+    background-color: wheat;
+    position: absolute;
+    right: 50%;
+    margin-top: 60%;
+    text-align: center;
+
+    width: 5%;
+}

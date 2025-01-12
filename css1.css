@@ -1,0 +1,114 @@
+body {
+    background-color: #fcf6d9; 
+    text-align: center; 
+}
+*{
+    font-style: italic;
+    
+}
+
+h1 {
+    font-size: 60px;
+    
+}
+h1:hover{
+    transform: scale(1.1);
+}
+.img{
+    float: right;
+    width: 30%;
+    border-radius: 30%;
+    
+}
+.img:hover{
+    transform: scale(1.2);
+}
+.pos{
+    position: absolute;
+    width: 80%;
+    left: 10%;
+    top: 30%;
+    background-color:#E5D0AC;
+    padding: 30px;
+    
+}
+
+
+.pos2{
+    font-size: 15px;
+
+}
+.pos3{
+    background-color: #E5D0AC;
+    
+    
+}
+.pos3 button{
+    justify-content: space-around;
+
+}
+
+.pos p{
+    margin-top: 13%;
+    
+}
+.pos p:hover{
+    transform: scale(1.1);
+}
+
+.pos4{
+    margin-top: 110%;
+    
+}
+
+
+.pos3:hover{
+    text-shadow: 2px 2px 2px white;
+    transform: scale(1.1);
+
+    
+    
+}
+.pos5{
+    position: absolute;
+    width: 40%;
+    left: 10%;
+    margin-top: 40%;
+    background-color:#E5D0AC;
+    padding: 30px;
+   
+}
+.pos5 p{
+    margin-top: 13%;
+}
+.pos6{
+    position: absolute;
+    width: 50%;
+    right: 10%;
+    margin-top: 65%;
+    background-color:#E5D0AC;
+    padding: 30px;
+    
+
+}
+.pos6 p{
+    margin-top: 6%;
+}
+
+.pos7{
+    position: absolute;
+    width: 50%;
+    left: 10%;
+    margin-top: 80%;
+    background-color:#E5D0AC;
+    padding: 30px;
+   
+
+}
+.pos7 p{
+    margin-top: 12%;
+}
+p:hover{
+    transform: scale(1.1);
+}
+
